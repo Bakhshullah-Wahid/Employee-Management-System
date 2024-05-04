@@ -14,3 +14,7 @@ Model 5 = Location (name, address)
 Creating migration for each Model Separately 
 
 publishing the project into GitHub and share the GitHub
+
+admin password for login local host
+login: bakshi
+password: imrankhan
