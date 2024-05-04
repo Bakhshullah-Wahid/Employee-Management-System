@@ -1,5 +1,10 @@
 # Employee-Management-System
 django project working with Models
+dont forget to install virtual Environment by entering this code in cmd of the directory:
+python -m venv environment
+and start the virtual environment by:
+environment\Scripts\Activate
+
 Creating a Django Project, Project Name (EmployeeManagementSystem)
 
 Adding an App, App name (EmployeeProfile)
